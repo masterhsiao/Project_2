@@ -55,8 +55,9 @@ Run the Trading Bot.py file.
 
 The script will retrieve historical stock data for the specified ticker, calculate the necessary indicators, and generate buy signals based on the strategy described above. The script will then simulate trades and calculate performance metrics.
 
-### Example:
-
+### Example Results:
+![](https://raw.githubusercontent.com/masterhsiao/Project_2/main/Pictures/project2_2_720.png)
+![](https://raw.githubusercontent.com/masterhsiao/Project_2/main/Pictures/project2_1_720.png)
 
  **Note:**
 
