@@ -51,9 +51,12 @@ Open the trading_strategy.py file in your preferred Python editor or environment
 Replace the API_KEY and SECRET_KEY variables with your Alpaca API credentials.
 Set the TICKER variable to the stock you want to trade.
 
-Run the XXXXXXXXXXXXXXXX.py file.
+Run the Trading Bot.py file.
 
 The script will retrieve historical stock data for the specified ticker, calculate the necessary indicators, and generate buy signals based on the strategy described above. The script will then simulate trades and calculate performance metrics.
+
+### Example:
+
 
  **Note:**
 
