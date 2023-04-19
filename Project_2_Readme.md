@@ -58,6 +58,7 @@ The script will retrieve historical stock data for the specified ticker, calcula
 ### Example Results:
 ![](https://raw.githubusercontent.com/masterhsiao/Project_2/main/Pictures/project2_2_720.png)
 ![](https://raw.githubusercontent.com/masterhsiao/Project_2/main/Pictures/project2_1_720.png)
+![](https://raw.githubusercontent.com/masterhsiao/Project_2/main/Pictures/Portfolio.png)
 
  **Note:**
 
