@@ -28,6 +28,11 @@ The trailing stop loss is set at a certain multiple of the ATR. This means that 
 
 The script calculates various performance metrics, including the total return, annualized return, win rate, and more. These metrics are used to evaluate the effectiveness of the trading strategy and to make improvements if necessary.
 
+### Models Used:
+Logistic Regression
+
+Random Forest
+
 ### Installation Instructions:
 
  To use this trading strategy, you will need to have Python 3 installed on your machine along with the following libraries:
